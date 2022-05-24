@@ -30,9 +30,9 @@
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=gruvbox" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=gruvbox" />
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=gruvbox" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=gruvbox" />
 <span>  </span>
 </div>
 
