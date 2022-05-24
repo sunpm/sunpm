@@ -20,9 +20,11 @@
 </p>
 
 
+<!--
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?size=21&color=28696B&center=true&lines=%E5%A5%BD%E8%AE%B0%E6%80%A7%E5%A6%82%E7%83%82%E7%AC%94%E5%A4%B4" alt="好记性不如烂笔头">
 </p>
+-->
 
 
 
