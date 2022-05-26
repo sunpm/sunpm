@@ -31,5 +31,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: False # 隐藏代码时间
           SHOW_LINES_OF_CODE: False # 隐藏截至日期编写的代码行
           SHOW_LOC_CHART: False # 隐藏不同年份不同季度编写的代码行
-          SYMBOL_VERSION: '2' # 设置进度条的符号
+          SYMBOL_VERSION: '3' # 设置进度条的符号
           SHOW_UPDATED_DATE: False # 段落末尾隐藏更新日期
+          SHOW_TIMEZONE: False # 隐藏您所在的时区
