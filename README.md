@@ -6,15 +6,18 @@
 <h3>Things I code with</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b983?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-4DE7A8?style=flat-square&logo=Nuxt.js&logoColor=white" />
+  <img alt="Nest" src="https://img.shields.io/badge/-Nest-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
