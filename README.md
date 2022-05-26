@@ -15,7 +15,7 @@
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=ffffff)](https://nuxtjs.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![Nest](https://img.shields.io/badge/-Nest-000000?style=flat-square&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
+[![Next](https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)](https://nestjs.com/)
 
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)](https://webpack.js.org/)
