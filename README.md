@@ -44,7 +44,6 @@
 
 
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 

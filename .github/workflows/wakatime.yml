@@ -22,7 +22,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_EDITORS: true
           SHOW_OS: true
-          LOCALE: zh_CN
+          LOCALE: zh
           SHOW_SHORT_INFO: false # 隐藏用户的简短有趣的事实信息
           SHOW_DAYS_OF_WEEK: False # 隐藏在一周中不同日期所做的提交
           SHOW_PROJECTS: False # 隐藏正在处理的项目
@@ -30,3 +30,4 @@ jobs:
           SHOW_PROFILE_VIEWS: False # 隐藏配置文件视图
           SHOW_TOTAL_CODE_TIME: False # 隐藏代码时间
           SHOW_LINES_OF_CODE: False # 隐藏截至日期编写的代码行
+          SHOW_LOC_CHART: False # 隐藏不同年份不同季度编写的代码行
