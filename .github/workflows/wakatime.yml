@@ -8,8 +8,8 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '30 18 * * *'
+    # Runs every 2 hours
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
