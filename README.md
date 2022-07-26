@@ -2,6 +2,8 @@
 
 欢迎访问我的页面!
 
+<img src="https://count.getloli.com/get/@sunpm?theme=rule34" alt="sunpm" />
+
 ## 操作系统和工具
 [![macOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
