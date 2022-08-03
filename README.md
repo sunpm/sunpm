@@ -33,6 +33,7 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)](http://npmjs.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=ffffff)](https://yarnpkg.com/)
+[![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 
 
 ## 统计数据
