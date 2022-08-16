@@ -2,6 +2,11 @@
 
 欢迎访问我的页面!
 
+<p style="font-weight:800;">
+    Projects 👉🏻
+    <a href="https://blog.fassr.top/">我的博客</a> 
+  </p>
+
 ## 操作系统和工具
 [![macOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
@@ -48,15 +53,15 @@
 
 <div align="center">
 <span>  </span>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=gruvbox" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=vue" />
   <span>  </span>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=gruvbox" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=vue" />
 <span>  </span>
 </div>
 
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=gruvbox" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=vue" />
 </div>
 
 
