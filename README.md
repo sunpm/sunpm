@@ -53,15 +53,15 @@
 
 <div align="center">
 <span>  </span>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=vue" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />
   <span>  </span>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=vue" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
 <span>  </span>
 </div>
 
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=vue" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
 </div>
 
 
