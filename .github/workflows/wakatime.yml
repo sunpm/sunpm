@@ -23,7 +23,7 @@ jobs:
           SHOW_EDITORS: True
           SHOW_OS: True
           LOCALE: zh
-          SHOW_SHORT_INFO: false # 隐藏用户的简短有趣的事实信息
+          SHOW_SHORT_INFO: False # 隐藏用户的简短有趣的事实信息
           SHOW_DAYS_OF_WEEK: False # 隐藏在一周中不同日期所做的提交
           SHOW_PROJECTS: False # 隐藏正在处理的项目
           SHOW_COMMIT: False # 隐藏提交统计信息
