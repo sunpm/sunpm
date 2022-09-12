@@ -43,8 +43,24 @@
 
 ## 统计数据
 
+<!--
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?size=21&color=28696B&center=true&lines=%E5%A5%BD%E8%AE%B0%E6%80%A7%E5%A6%82%E7%83%82%E7%AC%94%E5%A4%B4" alt="好记性不如烂笔头">
+</p>
+-->
+
+
+
 <div align="center">
-    <img src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header, activity, community, repositories, metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia/Shanghai">
+<span>  </span>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />
+  <span>  </span>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
+<span>  </span>
+</div>
+
+
+<div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
 </div>
 
