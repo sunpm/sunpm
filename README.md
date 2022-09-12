@@ -41,7 +41,7 @@
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 
 
-## 统计数据
+## 统计数据X
 
 <!--
 <p align="center">
@@ -51,22 +51,18 @@
 
 
 
-<div align="center">
-<span>  </span>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />
-  <span>  </span>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
-<span>  </span>
+<div>
+    <div align="center">
+        <span></span>
+        <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />
+        <span></span>
+        <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
+        <span></span>
+    </div>
+    <div align="center">
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
+    </div>
 </div>
-
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
-</div>
-
-
-<br>
-<br>
 
 <!--START_SECTION:waka-->
 📊 **这周我的时间花在了** 
