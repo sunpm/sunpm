@@ -41,15 +41,7 @@
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 
 
-## 统计数据X
-
-<!--
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=21&color=28696B&center=true&lines=%E5%A5%BD%E8%AE%B0%E6%80%A7%E5%A6%82%E7%83%82%E7%AC%94%E5%A4%B4" alt="好记性不如烂笔头">
-</p>
--->
-
-
+## 统计数据
 
 <div>
     <div align="center">
@@ -63,6 +55,8 @@
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
     </div>
 </div>
+
+## 编码时间
 
 <!--START_SECTION:waka-->
 📊 **这周我的时间花在了** 
