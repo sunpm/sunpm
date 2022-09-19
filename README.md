@@ -11,7 +11,8 @@
 [![macOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
-[![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA)](https://www.jetbrains.com/webstorm/)
+
+[//]: # ([![IntelliJ]&#40;https://img.shields.io/badge/IDE-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&#41;]&#40;https://www.jetbrains.com/webstorm/&#41;)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ## 技术堆栈
