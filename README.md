@@ -47,9 +47,11 @@
 <div>
     <div align="center">
         <span></span>
-        <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />
+        <img height="160px" src="https://github-readme-stats-ouuan.vercel.app/api?username=sunpm&count_private=true&theme=flag-india&show_icons=true" />
+        <!--<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />-->
         <span></span>
-        <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
+        <img height="160px" src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
+        <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />-->
         <span></span>
     </div>
     <div align="center">
