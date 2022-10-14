@@ -49,20 +49,20 @@
     <div align="center">
         <span></span>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats.vercel.app/api?username=sunpm&count_private=true&theme=gruvbox&show_icons=true">
-            <img height="160px" src="github-readme-stats.vercel.app/api?username=sunpm&count_private=true&theme=flag-india&show_icons=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&theme=gruvbox&show_icons=true">
+            <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&theme=flag-india&show_icons=true" />
        </picture>
         <span></span>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=gruvbox">
-            <img height="160px" src="github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=gruvbox">
+            <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
        </picture>
         <span></span>
     </div>
     <div align="center">
     	<picture>
-            <source media="(prefers-color-scheme: dark)" srcset="github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=gruvbox">
-            <img height="160px" src="github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=gruvbox">
+            <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
        </picture>
     </div>
 </div>
