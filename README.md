@@ -48,8 +48,8 @@
     <div align="center">
         <span></span>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=sunpm&count_private=true&theme=vue-dark&show_icons=true">
-    <img height="160px" src="https://github-readme-stats-ouuan.vercel.app/api?username=sunpm&count_private=true&theme=vue&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=sunpm&count_private=true&theme=omni&show_icons=true">
+    <img height="160px" src="https://github-readme-stats-ouuan.vercel.app/api?username=sunpm&count_private=true&theme=flag-india&show_icons=true" />
   </picture>
         <!--<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sunpm&count_private=true&show_icons=true&theme=flag-india" />-->
         <span></span>
