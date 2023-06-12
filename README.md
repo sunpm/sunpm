@@ -9,16 +9,9 @@
 
 
 
-<div>
-    <a href="https://github.com/sunpm">
-      <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-    </a>
-    <div>
-        <a href="https://count.getloli.com/">
-            <img align="right" src="https://count.getloli.com/get/@:sunpm">
-        </a>
-    </div>
-</div>
+<a href="https://github.com/sunpm">
+  <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+</a>
 
 ## 操作系统和工具
 
@@ -53,6 +46,8 @@
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)](http://npmjs.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
+
+<img align="right" src="https://count.getloli.com/get/@:sunpm">
 
 ## 编码时间
 
