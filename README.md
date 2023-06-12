@@ -15,7 +15,7 @@
     </a>
     <div>
         <a href="https://count.getloli.com/">
-            <img src="https://count.getloli.com/get/@:sunpm">
+            <img align="right" src="https://count.getloli.com/get/@:sunpm">
         </a>
     </div>
 </div>
