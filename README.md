@@ -9,20 +9,26 @@
 
 
 
-<div>
-<a href="https://github.com/sunpm">
-  <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-</a>
+<div style="position: absolute; right: 0; top: 100px;">
+    <a href="https://github.com/sunpm">
+      <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+    </a>
+    <div>
+        <a href="https://count.getloli.com/">
+            <img src="https://count.getloli.com/get/@:sunpm">
+        </a>
+    </div>
 </div>
 
 ## 操作系统和工具
+
 [![macOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-
 ## 技术堆栈
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
@@ -48,11 +54,10 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 
-
 ## 编码时间
 
 <!--START_SECTION:waka-->
-📊 **这周我的时间花在了** 
+📊 **这周我的时间花在了**
 
 ```text
 💬 编程语言: 
@@ -71,7 +76,7 @@ Mac                      22 hrs 30 mins      ███████████�
 
 ```
 
-**我主要编写 Vue** 
+**我主要编写 Vue**
 
 ```text
 Vue                      32 repos            █████████████░░░░░░░░░░░░   53.33% 
@@ -81,8 +86,6 @@ HTML                     2 repos             ░░░░░░░░░░░�
 CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
 
