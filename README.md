@@ -1,6 +1,11 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
+<a href="https://github.com/sunpm">
+  <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+</a>
+
 欢迎访问我的页面!
+
 
 <p style="font-weight:800;">
     Projects 👉🏻
@@ -9,9 +14,7 @@
 
 
 
-<a href="https://github.com/sunpm">
-  <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-</a>
+<img align="right" src="https://count.getloli.com/get/@:sunpm">
 
 ## 操作系统和工具
 
@@ -47,7 +50,6 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 
-<img align="right" src="https://count.getloli.com/get/@:sunpm">
 
 ## 编码时间
 
