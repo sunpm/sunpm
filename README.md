@@ -7,13 +7,21 @@
     <a href="https://blog.fassr.com/">我的博客</a> 
   </p>
 
+
+## 统计数据
+
+<div>
+<a href="https://github.com/sxzz">
+  <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+</a>
+</div>
+
 ## 操作系统和工具
 [![macOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
 
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-[//]: # "[![IntelliJ]&#40;https://img.shields.io/badge/IDE-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&#41;]&#40;https://www.jetbrains.com/webstorm/&#41;"
 
 ## 技术堆栈
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
@@ -41,31 +49,6 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=ffffff)](https://yarnpkg.com/)
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=ffffff)](https://pnpm.io/)
 
-
-## 统计数据
-
-<div>
-<!--https://github-readme-stats.vercel.app-->
-    <div align="center">
-        <span></span>
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunpm&count_private=true&theme=gruvbox&show_icons=true">
-            <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunpm&count_private=true&theme=flag-india&show_icons=true" />
-       </picture>
-        <span></span>
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=gruvbox">
-            <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunpm&layout=compact&theme=flag-india" />
-       </picture>
-        <span></span>
-    </div>
-    <div align="center">
-    	<picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=gruvbox">
-            <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=sunpm&theme=flag-india" />
-       </picture>
-    </div>
-</div>
 
 ## 编码时间
 
