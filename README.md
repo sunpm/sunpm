@@ -1,12 +1,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 欢迎访问我的页面!
-
-# <p style="font-weight:800;">
-#     Projects 👉🏻
-#     <a href="https://blog.fassr.com/">我的博客</a> 
-#   </p>
-
+<!--
+<p style="font-weight:800;">
+    Projects 👉🏻
+    <a href="https://blog.fassr.com/">我的博客</a> 
+  </p>
+-->
 
 
 <a href="https://github.com/sunpm">
