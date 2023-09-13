@@ -17,6 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_EDITORS: True
+          DEBUG_LOGGING: True
           SHOW_OS: True
           LOCALE: zh
           SHOW_SHORT_INFO: False # 隐藏用户的简短有趣的事实信息
@@ -29,4 +30,5 @@ jobs:
           SHOW_LOC_CHART: False # 隐藏不同年份不同季度编写的代码行
           SHOW_TIMEZONE: False # 隐藏您所在的时区
           SHOW_UPDATED_DATE: False # 段落末尾显示更新日期
+          SHOW_LANGUAGE_PER_REPO: False # 隐藏不同语言和框架的存储库数量
 
