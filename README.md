@@ -8,11 +8,6 @@
   </p>
 -->
 
-
-<a href="https://github.com/sunpm">
-  <img align="right" src="https://metrics.lecoq.io/sunpm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-</a>
-
 ## 操作系统和工具
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
@@ -20,7 +15,7 @@
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-## 技术堆栈
+## 技术堆栈（以下都不会）
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
