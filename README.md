@@ -10,7 +10,7 @@
 
 ## 操作系统和工具
 
-[![macOS](https://img.shields.io/badge/macOS-Sequoia-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/macos-sequoia/)
+[![macOS](https://img.shields.io/badge/macOS-Tahoe-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/macos-Tahoe/)
 
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
