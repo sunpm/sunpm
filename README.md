@@ -14,6 +14,7 @@
 
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Raycast](https://img.shields.io/badge/Launcher-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=ffffff)](https://www.raycast.com/)
 
 ## 设备
 
@@ -29,6 +30,9 @@
 - [`pnpm`](https://pnpm.io/) - 首选的包管理器
 - [`ni`](https://github.com/antfu/ni) - 别名包管理器
 - [`eslint`](https://eslint.org/) - 代码检查器 & 格式化器
+
+## 显示
+- [`Maple Mono`](https://github.com/subframe7536/maple-font) - 字体
 
 [//]: # (## 技术堆栈（以下都不会）)
 
@@ -84,5 +88,4 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
 
