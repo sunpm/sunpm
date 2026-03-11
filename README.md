@@ -1,12 +1,24 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 欢迎访问我的页面!
-<!--
-<p style="font-weight:800;">
-    Projects 👉🏻
-    <a href="https://blog.sunpm.me/">我的博客</a> 
-  </p>
--->
+
+前端开发者，主要使用 `Vue` / `UniApp` / `TypeScript`，关注工程化、体验和效率。
+
+## 关于我
+
+- 正在学习 AI 全栈，持续拓展从前端到应用落地的能力边界
+- 持续优化前端工作流，并整理日常使用的效率工具配置
+
+## 项目
+
+- [`unisave`](https://github.com/sunpm/unisave) - 基于 `UniApp` / `Vue 3` / `TypeScript` 的开箱即用跨端项目模板
+- [`blog-pages`](https://github.com/sunpm/blog-pages) - 记录学习与实践内容的个人博客站点
+- [`sunpm-utils`](https://github.com/sunpm/sunpm-utils) - 轻量、模块化的 TypeScript 工具函数库
+
+## 联系我
+
+- [`博客`](https://blog.sunpm.me)
+- [`GitHub`](https://github.com/sunpm)
 
 ## 操作系统和工具
 
