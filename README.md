@@ -22,7 +22,7 @@
 - 鼠标: 罗技 G604
 - 键盘: NuPhy Air75
 
-## CLI
+## 开发工具
 
 - [`Raycast`](https://www.raycast.com/) - 启动器 & 效率工具
 - [`iTerm2`](https://iterm2.com/index.html) - 终端
