@@ -99,47 +99,45 @@
 ## 编码时间
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2039%20mins-blue?style=flat)
-
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-Vue                      5 hrs 24 mins       ██████████████░░░░░░░░░░░   55.74 % 
-JavaScript               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.67 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Vue                      5 hrs 19 mins       ██████████████░░░░░░░░░░░   56.58 % 
+JavaScript               2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+SCSS                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 编辑器: 
-WebStorm                 8 hrs 24 mins       ██████████████████████░░░   86.65 % 
-Antigravity IDE          1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+WebStorm                 8 hrs 16 mins       ██████████████████████░░░   87.97 % 
+Antigravity IDE          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 操作系统: 
-Mac                      9 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (46.68%)
+⏱ AI Coding Time: 4 hrs 16 mins (45.45%)
 
-✍️ 442 lines written by AI, 466 lines written by hand (48.68% AI-written)
+✍️ 422 lines written by AI, 460 lines written by hand (47.85% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 59 AI Prompts
+🧠 14 AI Sessions, 54 AI Prompts
 
-Gemini                   478 lines           █████████████████████████   100.00 % 
+Gemini                   454 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.68% of written lines came from AI
+⚖️ Balanced with AI — 47.85% of written lines came from AI
 📝 Concise Prompter — average 123 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 61.54% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.57% of changed lines were hand-edited
 ```
 
 
