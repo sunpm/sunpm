@@ -105,43 +105,43 @@
 
 ```text
 💬 编程语言: 
-Vue                      8 hrs 37 mins       █████████████░░░░░░░░░░░░   52.69 % 
-TypeScript               3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-JavaScript               3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Vue                      8 hrs 17 mins       █████████████░░░░░░░░░░░░   51.17 % 
+TypeScript               3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+JavaScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 编辑器: 
-WebStorm                 13 hrs 8 mins       ████████████████████░░░░░   80.33 % 
-VS Code                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Antigravity IDE          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+WebStorm                 13 hrs 16 mins      ████████████████████░░░░░   81.97 % 
+VS Code                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Antigravity IDE          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 操作系统: 
-Mac                      16 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 36 mins (46.51%)
+⏱ AI Coding Time: 6 hrs 25 mins (39.64%)
 
-✍️ 916 lines written by AI, 565 lines written by hand (61.85% AI-written)
+✍️ 640 lines written by AI, 551 lines written by hand (53.74% AI-written)
 
-🔤 11,790,332 Input Tokens, 114,609 Output Tokens
+🔤 12,331,375 Input Tokens, 120,590 Output Tokens
 
-💵 $62.39 Estimated AI Cost This Week
+💵 $64.39 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 107 AI Prompts
+🧠 30 AI Sessions, 87 AI Prompts
 
-GPT                      571 lines           ██████████████░░░░░░░░░░░   57.68 % 
-Gemini                   419 lines           ███████████░░░░░░░░░░░░░░   42.32 % 
+GPT                      603 lines           ████████████████████░░░░░   80.61 % 
+Gemini                   145 lines           █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.85% of written lines came from AI
-📚 Verbose Prompter — average 1,671 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 47.28% of changed lines were hand-edited
+⚖️ Balanced with AI — 53.74% of written lines came from AI
+📚 Verbose Prompter — average 3,034 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 53.22% of changed lines were hand-edited
 ```
 
 
