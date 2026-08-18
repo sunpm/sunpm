@@ -105,47 +105,47 @@
 
 ```text
 💬 编程语言: 
-Vue                      17 hrs 27 mins      ███████████████░░░░░░░░░░   59.80 % 
-TypeScript               9 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.93 % 
-Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Vue                      17 hrs 59 mins      ████████████████░░░░░░░░░   63.66 % 
+TypeScript               6 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+.env file                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 编辑器: 
-WebStorm                 16 hrs 55 mins      ███████████████░░░░░░░░░░   58.01 % 
-Cursor                   8 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Agent                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+WebStorm                 16 hrs 5 mins       ██████████████░░░░░░░░░░░   56.94 % 
+Cursor                   8 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Agent                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Antigravity IDE          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 操作系统: 
-Mac                      29 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 54 mins (61.35%)
+⏱ AI Coding Time: 18 hrs 20 mins (64.92%)
 
-✍️ 8,364 lines written by AI, 626 lines written by hand (93.04% AI-written)
+✍️ 8,119 lines written by AI, 583 lines written by hand (93.3% AI-written)
 
-🔤 110,765 Input Tokens, 67,126 Output Tokens
+🔤 110,882 Input Tokens, 67,243 Output Tokens
 
 💵 $1.09 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 291 AI Prompts
+🧠 96 AI Sessions, 287 AI Prompts
 
-Grok                     8,982 lines         ████████████████████████░   95.05 % 
-Claude-Code              246 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Cursor                   222 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Grok                     8,603 lines         ███████████████████████░░   91.78 % 
+Gemini                   548 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Cursor                   222 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.04% of written lines came from AI
-📄 Detailed Prompter — average 1,361 characters per prompt
+🤖 AI-Driven — 93.3% of written lines came from AI
+📄 Detailed Prompter — average 1,144 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 12.88% of changed lines were hand-edited
+🚀 High AI Trust — 11.22% of changed lines were hand-edited
 ```
 
 
