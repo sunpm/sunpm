@@ -24,7 +24,7 @@
 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/)
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
-[![Cursor](https://img.shields.io/badge/IDE-Cursor-000000?style=flat-square)](https://cursor.com/)
+[![Cursor](https://img.shields.io/badge/IDE-Cursor-000000?style=flat-square&logo=Cursor)](https://cursor.com/)
 [![Raycast](https://img.shields.io/badge/Launcher-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=ffffff)](https://www.raycast.com/)
 
 - MacBook Pro 16" M3 Max 48GB
