@@ -46,47 +46,47 @@
 ## 编码时间
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2051%20mins-blue?style=flat)
 
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-TypeScript               1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-JavaScript               1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Vue                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Text                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+Vue                      1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+JavaScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Text                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 
 🔥 编辑器: 
-Codex Vscode             3 hrs 5 mins        ████████████████░░░░░░░░░   63.04 % 
-WebStorm                 1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.96 % 
+Codex Vscode             2 hrs 51 mins       █████████████░░░░░░░░░░░░   52.07 % 
+WebStorm                 2 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.93 % 
 
 💻 操作系统: 
-Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (88.78%)
+⏱ AI Coding Time: 4 hrs 35 mins (83.86%)
 
-✍️ 440 lines written by AI, 15 lines written by hand (96.7% AI-written)
+✍️ 330 lines written by AI, 288 lines written by hand (53.4% AI-written)
 
-🔤 2,099,998 Input Tokens, 200,589 Output Tokens
+🔤 2,373,229 Input Tokens, 225,487 Output Tokens
 
-💵 $83.05 Estimated AI Cost This Week
+💵 $122.27 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 77 AI Prompts
+🧠 20 AI Sessions, 96 AI Prompts
 
-GPT                      459 lines           █████████████████████████   100.00 % 
+GPT                      351 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.7% of written lines came from AI
-📚 Verbose Prompter — average 5,664 characters per prompt
+⚖️ Balanced with AI — 53.4% of written lines came from AI
+📚 Verbose Prompter — average 4,820 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.52% of changed lines were hand-edited
 ```
 
 
