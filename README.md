@@ -52,43 +52,43 @@
 
 ```text
 💬 编程语言: 
-TypeScript               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.66 % 
-Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Vue                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+TypeScript               2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.53 % 
+Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Vue                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 编辑器: 
-WebStorm                 1 hr 50 mins        █████████████░░░░░░░░░░░░   52.09 % 
-Codex Vscode             1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
-Antigravity IDE          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Codex Vscode             3 hrs 27 mins       █████████████████░░░░░░░░   69.70 % 
+WebStorm                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Antigravity IDE          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 操作系统: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (72.71%)
+⏱ AI Coding Time: 4 hrs 29 mins (90.57%)
 
-✍️ 246 lines written by AI, 43 lines written by hand (85.12% AI-written)
+✍️ 508 lines written by AI, 33 lines written by hand (93.9% AI-written)
 
-🔤 1,326,130 Input Tokens, 95,941 Output Tokens
+🔤 2,143,349 Input Tokens, 218,469 Output Tokens
 
-💵 $34.48 Estimated AI Cost This Week
+💵 $87.46 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 52 AI Prompts
+🧠 26 AI Sessions, 47 AI Prompts
 
-GPT                      535 lines           █████████████████████████   100.00 % 
+GPT                      811 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.12% of written lines came from AI
-📚 Verbose Prompter — average 4,232 characters per prompt
+🤖 AI-Driven — 93.9% of written lines came from AI
+📚 Verbose Prompter — average 3,513 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.28% of changed lines were hand-edited
+🚀 High AI Trust — 5.37% of changed lines were hand-edited
 ```
 
 
