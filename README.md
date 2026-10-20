@@ -52,44 +52,46 @@
 
 ```text
 💬 编程语言: 
-Vue                      10 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   38.62 % 
-TypeScript               8 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
-Markdown                 2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Vue                      11 hrs 8 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
+TypeScript               6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+JSON                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 编辑器: 
-Codex Vscode             17 hrs 35 mins      ███████████████░░░░░░░░░░   61.84 % 
-WebStorm                 10 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   36.86 % 
-Antigravity IDE          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex Vscode             13 hrs 58 mins      █████████████░░░░░░░░░░░░   53.03 % 
+WebStorm                 11 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.14 % 
+Antigravity IDE          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Webstorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 操作系统: 
-Mac                      28 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 55 mins (77.08%)
+⏱ AI Coding Time: 18 hrs 38 mins (70.77%)
 
-✍️ 7,950 lines written by AI, 364 lines written by hand (95.62% AI-written)
+✍️ 6,084 lines written by AI, 378 lines written by hand (94.15% AI-written)
 
-🔤 9,122,699 Input Tokens, 1,177,875 Output Tokens
+🔤 7,938,471 Input Tokens, 1,011,394 Output Tokens
 
-💵 $380.20 Estimated AI Cost This Week
+💵 $311.00 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 298 AI Prompts
+🧠 70 AI Sessions, 284 AI Prompts
 
-GPT                      6,103 lines         █████████████████░░░░░░░░   69.31 % 
-Gemini                   2,703 lines         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+GPT                      4,177 lines         ███████████████░░░░░░░░░░   60.70 % 
+Gemini                   2,703 lines         ██████████░░░░░░░░░░░░░░░   39.28 % 
+Opus                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.62% of written lines came from AI
-📚 Verbose Prompter — average 1,996 characters per prompt
+🤖 AI-Driven — 94.15% of written lines came from AI
+📚 Verbose Prompter — average 1,888 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.45% of changed lines were hand-edited
+🚀 High AI Trust — 8.42% of changed lines were hand-edited
 ```
 
 
