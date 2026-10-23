@@ -46,52 +46,52 @@
 ## 编码时间
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-314%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2041%20mins-blue?style=flat)
 
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-Vue                      13 hrs 2 mins       █████████████░░░░░░░░░░░░   52.50 % 
-TypeScript               6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-JSON                     2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Vue                      12 hrs 3 mins       ████████████░░░░░░░░░░░░░   47.61 % 
+TypeScript               6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Markdown                 2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+JSON                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 编辑器: 
-WebStorm                 14 hrs 24 mins      ███████████████░░░░░░░░░░   58.04 % 
-Codex Vscode             6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Webstorm                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Antigravity IDE          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+WebStorm                 15 hrs 59 mins      ████████████████░░░░░░░░░   63.17 % 
+Webstorm                 4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Codex Vscode             3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 操作系统: 
-Mac                      24 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 11 mins (61.19%)
+⏱ AI Coding Time: 15 hrs 3 mins (59.5%)
 
-✍️ 3,157 lines written by AI, 280 lines written by hand (91.85% AI-written)
+✍️ 3,220 lines written by AI, 653 lines written by hand (83.14% AI-written)
 
-🔤 6,189,712 Input Tokens, 697,234 Output Tokens
+🔤 5,757,568 Input Tokens, 700,064 Output Tokens
 
-💵 $203.40 Estimated AI Cost This Week
+💵 $238.80 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 262 AI Prompts
+🧠 53 AI Sessions, 250 AI Prompts
 
-GPT                      2,654 lines         ██████████████████░░░░░░░   70.91 % 
-Gemini                   898 lines           ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Opus                     191 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+GPT                      3,330 lines         ████████████████████████░   94.58 % 
+Opus                     191 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.85% of written lines came from AI
-📚 Verbose Prompter — average 1,761 characters per prompt
+🤖 AI-Driven — 83.14% of written lines came from AI
+📚 Verbose Prompter — average 1,712 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 13.36% of changed lines were hand-edited
+🚀 High AI Trust — 24.73% of changed lines were hand-edited
 ```
 
 
