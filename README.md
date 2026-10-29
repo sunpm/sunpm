@@ -46,48 +46,47 @@
 ## 编码时间
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%201%20min-blue?style=flat)
 
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-Vue                      15 hrs 15 mins      ████████████░░░░░░░░░░░░░   49.00 % 
-TypeScript               6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Markdown                 4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Vue                      11 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   37.32 % 
+Markdown                 6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Swift                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JavaScript               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 编辑器: 
-WebStorm                 22 hrs 14 mins      ██████████████████░░░░░░░   71.45 % 
-Webstorm                 8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+WebStorm                 20 hrs 48 mins      ████████████████░░░░░░░░░   65.84 % 
+Webstorm                 10 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   34.16 % 
 
 💻 操作系统: 
-Mac                      31 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      31 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 29 mins (62.63%)
+⏱ AI Coding Time: 22 hrs 24 mins (70.91%)
 
-✍️ 5,516 lines written by AI, 1,086 lines written by hand (83.55% AI-written)
+✍️ 5,773 lines written by AI, 965 lines written by hand (85.68% AI-written)
 
-🔤 7,621,459 Input Tokens, 1,005,955 Output Tokens
+🔤 8,700,394 Input Tokens, 1,237,173 Output Tokens
 
-💵 $414.97 Estimated AI Cost This Week
+💵 $511.75 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 298 AI Prompts
+🧠 81 AI Sessions, 308 AI Prompts
 
-GPT                      6,023 lines         █████████████████████████   100.00 % 
+GPT                      6,324 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.55% of written lines came from AI
-📚 Verbose Prompter — average 2,121 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.55% of changed lines were hand-edited
+🤖 AI-Driven — 85.68% of written lines came from AI
+📚 Verbose Prompter — average 2,384 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 19.38% of changed lines were hand-edited
 ```
 
 
