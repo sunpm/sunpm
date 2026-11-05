@@ -42,5 +42,7 @@
 ## 编码时间
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%2038%20mins-blue?style=flat)
+
 
 <!--END_SECTION:waka-->
