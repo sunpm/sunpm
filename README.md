@@ -1,16 +1,14 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-欢迎访问我的页面!
-
 前端开发者，主要使用 `Vue` / `uni-app` / `TypeScript`，也在用 `Swift` 开发 macOS 原生工具。关注工程化、交互体验和 AI 编程工作流。
 
 ## 作品
 
 ### 应用
 
-- <img src="https://raw.githubusercontent.com/sunpm/codex-quota/main/src-tauri/icons/128x128.png" width="24" height="24" align="center" alt=""> **[Codex Quota](https://github.com/sunpm/codex-quota)** - macOS 原生 Codex 额度监测，支持恢复提醒、Token 统计与费用估算
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunpm/yuewen/main/brand/logo-mark-dark.svg"><img src="https://raw.githubusercontent.com/sunpm/yuewen/main/brand/logo-mark-light.svg" width="24" height="24" align="center" alt=""></picture> **[阅纹](https://github.com/sunpm/yuewen)** - 微信读书阅读可视化，将阅读统计、书架和笔记整理成个人阅读档案
-- <img src="https://raw.githubusercontent.com/sunpm/anki-reader/main/public/icon.svg" width="24" height="24" align="center" alt=""> **[拾卡](https://github.com/sunpm/anki-reader)** - 在浏览器中导入、搜索和浏览 Anki 卡包，文件无需上传
+- <img src="https://raw.githubusercontent.com/sunpm/codex-quota/main/src-tauri/icons/128x128.png" width="28" height="28" align="absmiddle" alt=""> **[Codex Quota](https://github.com/sunpm/codex-quota)** - Codex / Antigravity 桌面额度与用量分析工具，支持 macOS 和 Windows
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunpm/yuewen/main/brand/logo-mark-dark.svg"><img src="https://raw.githubusercontent.com/sunpm/yuewen/main/brand/logo-mark-light.svg" width="24" height="24" hspace="2" vspace="2" align="absmiddle" alt=""></picture> **[阅纹](https://github.com/sunpm/yuewen)** - 微信读书阅读可视化，将阅读统计、书架和笔记整理成个人阅读档案
+- <img src="https://raw.githubusercontent.com/sunpm/anki-reader/main/public/icon.svg" width="24" height="24" hspace="2" vspace="2" align="absmiddle" alt=""> **[拾卡](https://github.com/sunpm/anki-reader)** - 在浏览器中导入、搜索和浏览 Anki 卡包，文件无需上传
 
 ### 开发工具
 
@@ -18,17 +16,11 @@
 - 🚀 **[unisave](https://github.com/sunpm/unisave)** - 基于 uni-app / Vue 3 / TypeScript 的跨端项目模板，开箱即用
 - 🪶 **[unisave-lite](https://github.com/sunpm/unisave-lite)** - unisave 的 JavaScript 版本，延续跨端开发的基础配置
 
-## 联系我
-
-- [`博客`](https://blog.sunpm.me)
-- [`GitHub`](https://github.com/sunpm)
-
 ## 环境
 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/)
 [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm)](https://www.jetbrains.com/webstorm/)
 [![Cursor](https://img.shields.io/badge/IDE-Cursor-000000?style=flat-square&logo=Cursor)](https://cursor.com/)
-[![Raycast](https://img.shields.io/badge/Launcher-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=ffffff)](https://www.raycast.com/)
 
 - MacBook Pro 16" M3 Max 48GB
 - 键盘: NuPhy Air75
@@ -48,6 +40,9 @@
 <img src="https://count.getloli.com/get/@:sunpm">
 
 ## 编码时间
+
+<details>
+<summary>查看详细统计</summary>
 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2011%20mins-blue?style=flat)
@@ -98,3 +93,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</details>
