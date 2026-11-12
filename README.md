@@ -8,9 +8,9 @@
 
 ### 应用
 
-- 🎚️ **[Codex Quota](https://github.com/sunpm/codex-quota)** - macOS 原生 Codex 额度监测，支持恢复提醒、Token 统计与费用估算
-- 📖 **[阅纹](https://github.com/sunpm/yuewen)** - 微信读书阅读可视化，将阅读统计、书架和笔记整理成个人阅读档案
-- 🗂️ **[拾卡](https://github.com/sunpm/anki-reader)** - 在浏览器中导入、搜索和浏览 Anki 卡包，文件无需上传
+- <img src="https://raw.githubusercontent.com/sunpm/codex-quota/main/src-tauri/icons/128x128.png" width="24" height="24" align="center" alt=""> **[Codex Quota](https://github.com/sunpm/codex-quota)** - macOS 原生 Codex 额度监测，支持恢复提醒、Token 统计与费用估算
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunpm/yuewen/main/brand/logo-mark-dark.svg"><img src="https://raw.githubusercontent.com/sunpm/yuewen/main/brand/logo-mark-light.svg" width="24" height="24" align="center" alt=""></picture> **[阅纹](https://github.com/sunpm/yuewen)** - 微信读书阅读可视化，将阅读统计、书架和笔记整理成个人阅读档案
+- <img src="https://raw.githubusercontent.com/sunpm/anki-reader/main/public/icon.svg" width="24" height="24" align="center" alt=""> **[拾卡](https://github.com/sunpm/anki-reader)** - 在浏览器中导入、搜索和浏览 Anki 卡包，文件无需上传
 
 ### 开发工具
 
