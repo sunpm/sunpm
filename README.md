@@ -45,47 +45,47 @@
 <summary>查看详细统计</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-442%20hrs%2022%20mins-blue?style=flat)
 
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-TypeScript               9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.39 % 
-Vue                      7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Other                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Markdown                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-CSS                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+TypeScript               8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Vue                      7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+CSS                      2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 🔥 编辑器: 
-WebStorm                 29 hrs 28 mins      █████████████████████████   100.00 % 
+WebStorm                 28 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Mac                      29 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 32 mins (93.46%)
+⏱ AI Coding Time: 26 hrs 39 mins (92.13%)
 
-✍️ 5,776 lines written by AI, 478 lines written by hand (92.36% AI-written)
+✍️ 4,789 lines written by AI, 479 lines written by hand (90.91% AI-written)
 
-🔤 17,957,042 Input Tokens, 1,624,690 Output Tokens
+🔤 16,419,334 Input Tokens, 1,422,235 Output Tokens
 
-💵 $373.06 Estimated AI Cost This Week
+💵 $328.56 Estimated AI Cost This Week
 
-🧠 173 AI Sessions, 532 AI Prompts
+🧠 157 AI Sessions, 524 AI Prompts
 
-GPT                      6,498 lines         █████████████████████████   100.00 % 
+GPT                      5,446 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.36% of written lines came from AI
-📚 Verbose Prompter — average 3,302 characters per prompt
+🤖 AI-Driven — 90.91% of written lines came from AI
+📚 Verbose Prompter — average 3,127 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 81.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.91% of changed lines were hand-edited
 ```
 
 
